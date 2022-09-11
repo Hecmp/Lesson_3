@@ -1,0 +1,31 @@
+span {
+	color: green;
+}
+
+h2 {
+	color:blue;
+}
+
+h3 {
+	color: greenyellow;
+}
+
+footer a{
+	color: royalblue;
+}
+
+.text {
+	color: blueviolet;
+}
+
+.block-plot .text{
+	color: red;
+}
+
+.block-roll .text {
+	color: orangered;
+}
+
+.secondary-child {
+	color: green;
+}
